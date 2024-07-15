@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I am a Bioinformatics Technical Analyst at the University of Colorado Anschutz Medical Campus.
+Professionally, I focus on High Performance Computing where I can explore topics related to Machine learning, scientific computing and parallelism with accelerators such as Graphics Processing Units (GPU), Neural Processing Units (NPU) and Language Processing Units (LPU). My educational background is on Medical Imaging and Computer Vision. 
